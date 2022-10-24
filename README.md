@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @C4fesit0
+- 👋 Hi, I’m Alan
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Angular, NodeJS and SpringBoot
 - 💞️ I’m looking to collaborate on web apps
