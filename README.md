@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alan
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Angular, NodeJS and SpringBoot
+- 🌱 I’m currently learning Angular, NodeJS and Spring Boot
 - 💞️ I’m looking to collaborate on web apps
 - 📫 Contact me trought my email alanlazo35@gmail.com
 
