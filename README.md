@@ -1,7 +1,17 @@
 # Hello
-## My name is Alan
+### My name is Alan
+I am Systems Engineer student at UTN. I am also a Computer Technician.  And i am currently learning new technologies.
+Some of them are
+ - Spring Boot
+ - NodeJs
+ - Angular
 
-
+I have some projects using:
+- Java
+- C#/.Net
+- MySQL
+- C++
+- HTML / CSS / JavaScript
 
 
 <!---
