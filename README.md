@@ -5,6 +5,7 @@ Some of them are
  - Spring Boot
  - NodeJs
  - Angular
+ - Laravel
 
 I have some projects using:
 - Java
