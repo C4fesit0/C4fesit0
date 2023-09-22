@@ -3,7 +3,7 @@
 I am Systems Engineer student at UTN. I am also a Computer Technician.  And i am currently learning new technologies.
 Some of them are
  
- - NodeJs
+ - Go
  - React
  - Laravel
 
