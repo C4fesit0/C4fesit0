@@ -15,6 +15,7 @@ I have some projects using:
 - HTML / CSS / JavaScript
 - Angular
 
+You can check my linkedin profile [here](https://www.linkedin.com/in/alan-lazo/),
 
 <!---
 C4fesit0/C4fesit0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
